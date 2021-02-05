@@ -1,5 +1,5 @@
 .header {
-    background: #333;
+    background: rgba(76, 92, 169, 0.429);
     color: #fff;
     text-align: center;
     padding: 10px;
@@ -8,4 +8,5 @@
   .header a {
     color: #fff;
     text-decoration: none;
+    padding: 5px;
   }
